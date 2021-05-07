@@ -1,0 +1,17 @@
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\bin\Release\OmertaLauncher.exe.config
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\bin\Release\OmertaLauncher.exe.manifest
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\bin\Release\OmertaLauncher.application
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\bin\Release\OmertaLauncher.exe
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\bin\Release\OmertaLauncher.pdb
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.csprojAssemblyReference.cache
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.Form1.resources
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.Properties.Resources.resources
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.csproj.GenerateResource.cache
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.csproj.CoreCompileInputs.cache
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.exe.manifest
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.application
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.exe
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.pdb
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\bin\Release\dje-NE\OmertaLauncher.resources.dll
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\OmertaLauncher.Form1.dje-NE.resources
+C:\Users\vniko\Desktop\OmertaLauncher\OmertaLauncher\OmertaLauncher\obj\Release\dje-NE\OmertaLauncher.resources.dll
