@@ -1,4 +1,6 @@
-# OmertaLuancherSourceCode
-Full Source of Omerta roleplay launcher
-Source Code by:Mazgow
+# Omerta Launcher
+
+Launcher Of Omrta Rleplay Server
+
+# Developer
 Discord:Mazgow#9498
