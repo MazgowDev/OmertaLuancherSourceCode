@@ -1,6 +1,6 @@
 # Omerta Launcher
 
-Launcher Of Omerta Roleplay Server
+Omerta Roleplay Server Launcher
 
 # Developer
 Discord:Mazgow#9498
